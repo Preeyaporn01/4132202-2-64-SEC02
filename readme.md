@@ -9,4 +9,4 @@
 > git clone https://github.com/dadwindad/4134901-2-64.git
 
 ** Link **  
-[LAB1](https://github.com/dadwindad/tree/master/)
+[LAB1](https://github.com/dadwindad/tree/master/4132202-2-64/lab1)
